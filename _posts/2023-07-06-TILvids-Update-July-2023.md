@@ -3,7 +3,7 @@ layout: post
 title: TILvids Update - July 2023
 ---
 
-![image](https://github.com/TILvids/tilvids.github.io/assets/69435791/a42b927a-159c-40f9-b8e3-5fb2bf93af65)
+![image](https://github.com/TILvids/tilvids.github.io/assets/69435791/3b8f71e9-45a9-4303-ab65-a7e1f9e61e69)
 
 It's been a while since I've done a blog update, so I thought I'd take a few minutes to update thoughts I've been continuing to have, about where I hope to evolve [TILvids](https://www.tilvids.com) to going forward. If that sounds interesting to you, keep reading (and if not, well, thanks for stopping by).
 
